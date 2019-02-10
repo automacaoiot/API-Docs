@@ -1,3 +1,3 @@
 # API-Docs
 
-Automação IOT API Documentation.
+Automação IOT API PT-BR / English Documentation.
